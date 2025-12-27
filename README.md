@@ -202,4 +202,3 @@ est prêt pour une **implémentation industrielle sur microcontrôleur**.
 
 ---
 
-📌 *Ce projet illustre l’efficacité du contrôle PID numérique dans les systèmes hydrauliques embarqués.*
